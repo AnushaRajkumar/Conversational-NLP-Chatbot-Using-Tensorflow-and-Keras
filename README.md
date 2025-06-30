@@ -1,4 +1,4 @@
-# **Conversational-NLP-Chatbot-Using-Tensorflow-and-Keras** <br/>
+# **Conversational NLP Chatbot Using Tensorflow and Keras** <br/>
 
 **Tools Used:** Python 3, TensorFlow, Keras, NLTK, NumPy, JSON, Pickle <br/>
 **Result:** This project is a simple yet powerful intent-based chatbot built using Python, TensorFlow's Keras API, and Natural Language Processing (NLP) with NLTK.
